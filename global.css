@@ -23,3 +23,33 @@ p{
     display: flex;
     justify-content: space-around;
 }
+
+/*Google Logo */
+.googleLogo{
+    display: flex;
+    justify-content: space-around;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 3em;
+    letter-spacing: -7px;
+}
+
+
+/* Google letters */
+#letter1{
+    color: Blue;
+}
+#letter2{
+    color: Red;
+}
+#letter3{
+    color: yellow;
+}
+#letter4{
+    color: blue;
+}
+#letter5{
+    color:green;
+}
+#letter6{
+    color:red;
+}
