@@ -22,8 +22,16 @@ p{
     margin:1%;
     display: flex;
     justify-content: space-around;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
 }
 
+a:hover{
+    text-decoration: underline;
+}
 /*Google Logo */
 .googleLogo{
     display: flex;
